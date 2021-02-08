@@ -1,4 +1,4 @@
-# Skroll
+# Introduction to Concepts of Artificial Intelligence and Machine Learning
 
 ![img](https://github.com/vyzboy92/Intro-to-AI/blob/main/Getting%20Started/960x0.jpg)
 
